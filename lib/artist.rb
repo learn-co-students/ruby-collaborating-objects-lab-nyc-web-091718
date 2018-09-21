@@ -26,4 +26,4 @@ class Artist
    def print_songs
     puts self.songs.map{|song| song.name}.join("\n")
   end
- end#end of Artist Class
+ end#end
